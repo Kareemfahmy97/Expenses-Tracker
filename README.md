@@ -6,9 +6,9 @@ This was app was build with the intention of providing a clean and simple respon
 A Simple Expense Tracker App 📱 built to demonstrate the use of React components and React hooks.
 
 ## How to..
-######- Click on (Add Expense) button and put your expense's details.
-######- Select the same year you stored from the drop down list.
-######- Then you can see all your expenses in this year.
+###### Click on (Add Expense) button and put your expense's details.
+###### Select the same year you stored from the drop down list.
+###### Then you can see all your expenses in this year.
 
 ## Framework Used
 This project was generated with React version 18.0.0.
